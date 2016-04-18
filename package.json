@@ -1,0 +1,22 @@
+{
+  "name": "super-template",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/super-elements/super-template.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/super-elements/super-template/issues"
+  }
+}

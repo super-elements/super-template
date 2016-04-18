@@ -1,0 +1,14 @@
+{
+  "name": "super-template",
+  "description": "",
+  "main": "Gruntfile.js",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/super-elements/super-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
